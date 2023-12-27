@@ -30,11 +30,11 @@ exclude:
 # Jekyll SEO Tag (Optional)
 # =========================
 twitter:
-  username: ngzhio
+  username: andrewryan_
   card: summary
-logo: logo.png
+logo: headshot.png
 social:
-  name: Shangzhi Huang
+  name: Andrew Ryan
   links:
     - https://github.com/andreweryan
     - https://twitter.com/andrewryan_
